@@ -1,0 +1,9 @@
+site_name: Workshop
+
+nav:
+  - 'index.md'
+  - 'second-page.md'
+
+theme: 
+  name: material
+  language: ru
